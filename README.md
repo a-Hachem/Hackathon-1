@@ -1,4 +1,4 @@
-# Fraud Detection Project
+# STOP Fraud Project
 
 ## 1. Introduction
 
